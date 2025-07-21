@@ -17,7 +17,25 @@ Atualmente, estou construindo um ecossistema de projetos que vão desde sites ar
   Um espaço para minha paixão por animes e mangás, com visão de comunidade geek.
 - *(mais em breve...)*
 
+  ## 💡 Sobre mim
+
+- 🎓 Sou estudante de Desenvolvimento de Sistemas
+- 🧑‍💻 Tambem sou apaixonado por Astronomia e a Tecnologia em si como HTML, CSS JavaScript 
+- 🎮 Estou em desenvolvimento para ser um criador de jogos e experiências imersivas
+- 📚 Curioso por ciência, filosofia e design e varias coisas
+- 🌘 Meu estilo: minimalismo escuro com traços de luz
+- 🧩 Explorador do simbólico, do vazio e da estética criativa
+
+Estou sempre aberto a aprender, colaborar e transformar ideias em experiências reais 
+
 ![DanxzSleepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=dark)
+
+## 📫 Onde me encontrar
+
+- [YouTube](#) (em breve)
+- [Instagram](https://www.instagram.com/danzx_sleep/)
+- [Twitter/X](#) (Em breve)
+- [Discord](#) (comunidade em formação)
 
 <!--
 **DanxzSleepy/DanxzSleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
