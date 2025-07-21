@@ -1,8 +1,8 @@
 # Oi me chamo Danilo Ícaro – Um Possivel Desenvolvedor Full Stack & Criador Digital(em andamento)
 
-![DanxzSleepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=dark)
+![DanxzSleepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=shadow_red)
 
-[![DanxzSleepy's2 GitHub stats](https://github-readme-stats.vercel.app/api?username=DanxzSleepy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Também conhecido como **Danxz.Sleepy**, sou um desenvolvedor apaixonado por criar experiências digitais que misturam tecnologia, arte e narrativa por diversao. 
 
