@@ -1,7 +1,7 @@
 # Ola! Eu me chamo Danilo Ícaro – Um Futuro Desenvolvedor Full Stack & Criador Digital
 
 ## 🤖 Estatisticas
-![DanxzSleepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=shadow_red)
+![DanxzSleepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=dark)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanxzSleepy&layout=compact&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
