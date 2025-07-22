@@ -58,7 +58,7 @@ Me chamo Danilo Icaro, tenho 17 anos, e sou um desenvolvedor apaixonado por cria
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=dark&include_all_commits=false" 
   />
 
 <img 
