@@ -60,16 +60,6 @@ Me chamo Danilo Icaro, tenho 17 anos, e sou um desenvolvedor apaixonado por cria
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DanxzSleepy.DanxzSleepy&left_color=purple&right_color=purple&left_text=Curiosos:"  />
 </div>
 
-
-
-
-
-
-
-
-
-
-<!--
 <div>
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanxzSleepy/DanxzSleepy/output/pacman-contribution-graph-dark.svg">
