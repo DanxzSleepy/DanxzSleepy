@@ -69,6 +69,11 @@ Me chamo Danilo Icaro, tenho 17 anos, e sou um desenvolvedor apaixonado por cria
 </picture>
 </div>
 
+<div>
+    <img src="https://raw.githubusercontent.com/DanxzSleepy/DanxzSleepy/output/snake.svg" alt="Snake animation" />
+    
+</div>
+
 
 
 
