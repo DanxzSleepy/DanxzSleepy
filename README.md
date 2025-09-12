@@ -29,11 +29,9 @@ Me chamo Danilo Icaro, tenho 17 anos, e sou um desenvolvedor apaixonado por cria
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
 <br>
 
 ## 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -42,35 +40,21 @@ Me chamo Danilo Icaro, tenho 17 anos, e sou um desenvolvedor apaixonado por cria
     style="padding-right: 15px;" 
     src="https://github-readme-stats.vercel.app/api?username=DanxzSleepy&hide=contribs&count_private=true&show_icons=true&theme=midnight-purple" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanxzSleepy&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
-
 </p>
 
 ###
-
 <br clear="both"><br clear="both"><br clear="both"><br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DanxzSleepy.DanxzSleepy&left_color=purple&right_color=purple&left_text=Curiosos:"  />
 </div>
-
-
-<img src="https://raw.githubusercontent.com/DanxzSleepy/DanxzSleepy/output/snake.svg" alt="Snake animation" />
-
-
-
-
-
-
-
-
 <!--
+<img src="https://raw.githubusercontent.com/DanxzSleepy/DanxzSleepy/output/snake.svg" alt="Snake animation" />
 <div>
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanxzSleepy/DanxzSleepy/output/pacman-contribution-graph-dark.svg">
@@ -78,32 +62,8 @@ Me chamo Danilo Icaro, tenho 17 anos, e sou um desenvolvedor apaixonado por cria
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanxzSleepy/DanxzSleepy/output/pacman-contribution-graph.svg">
 </picture>
 </div>
-
-###
-
-
-###
-
-
-
-
-
-
-
-
-
-
-<!--
-## 🤖 Estatisticas
-![DanxzSleepy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanxzSleepy&show_icons=true&theme=dark)
--->
-
-<!-- 
-
 **DanxzSleepy/DanxzSleepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
